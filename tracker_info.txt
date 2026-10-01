@@ -1,0 +1,5 @@
+# tracker_info.txt
+# One line per tracker, format: ip:port
+# Line 1 -> tracker_no 1, Line 2 -> tracker_no 2
+127.0.0.1:9001
+127.0.0.1:9002

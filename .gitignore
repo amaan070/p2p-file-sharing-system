@@ -1,0 +1,13 @@
+# Build outputs
+tracker/tracker
+client/client
+tests/test_*
+tests/tcp_proxy
+*.o
+*.a
+*.so
+
+# Runtime / generated data
+*.log
+*.pid
+.DS_Store
